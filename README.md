@@ -1,5 +1,4 @@
 ### Hi, I’m @bonaventureogeto
-![photo-circle](https://user-images.githubusercontent.com/39027629/111861445-540d7a80-895f-11eb-8ccc-7888943e36a5.png)
 
 ### I’m interested in software development and Design
 ### I’m currently learning React
