@@ -1,4 +1,4 @@
-### Hi, I’m @bonaventureogeto
+### Hi, I’m Bonaventure Ogeto.
 
 
 <a href="https://github.com/bonaventureogeto/github-stats">
