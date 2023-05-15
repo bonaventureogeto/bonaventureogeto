@@ -2,8 +2,8 @@
 
 
 <a href="https://github.com/bonaventureogeto/github-stats">
-![](https://github.com/bonaventureogeto/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/bonaventureogeto/github-stats/blob/master/generated/languages.svg)
+[](https://github.com/bonaventureogeto/github-stats/blob/master/generated/overview.svg)
+[](https://github.com/bonaventureogeto/github-stats/blob/master/generated/languages.svg)
 </a>
 
 
