@@ -1,9 +1,7 @@
-<!-- 
-<a href="https://github.com/bonaventureogeto/github-stats">
-![](https://github.com/bonaventureogeto/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/bonaventureogeto/github-stats/blob/master/generated/languages.svg)
-</a>
- -->
+
+![](https://raw.githubusercontent.com/bonaventureogeto/githubstats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/bonaventureogeto/githubstats/master/generated/overview.svg#gh-light-mode-only)
+
 <!-- 
 **bonaventureogeto/bonaventureogeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
