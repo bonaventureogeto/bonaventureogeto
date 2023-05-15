@@ -1,4 +1,3 @@
-### Hi, I’m Bonaventure Ogeto.
 <!-- 
 <a href="https://github.com/bonaventureogeto/github-stats">
 ![](https://github.com/bonaventureogeto/github-stats/blob/master/generated/overview.svg)
@@ -9,7 +8,7 @@
 **bonaventureogeto/bonaventureogeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-<h1 align="center">Bonaventure Ogeto</h1>
+<h1 align="center">Hi, I'm Bonaventure Ogeto</h1>
 <h3 align="center">Full-Stack Software Developer</h3>
 
 <p>Visit my <a href="https://hojaleaks.com/" target="_blank">Blog</a></p>
