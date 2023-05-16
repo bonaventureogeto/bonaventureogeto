@@ -18,8 +18,8 @@
 ![](https://raw.githubusercontent.com/bonaventureogeto/githubstats/master/generated/overview.svg#gh-light-mode-only)
 
 
-![](https://raw.githubusercontent.com/bonaventureogeto/githubstats/master/generated/language.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/bonaventureogeto/githubstats/master/generated/language.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/bonaventureogeto/githubstats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/bonaventureogeto/githubstats/master/generated/languages.svg#gh-light-mode-only)
 
 <!-- **bonaventureogeto/bonaventureogeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
