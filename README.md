@@ -1,10 +1,34 @@
 <h1 align="center">Hi, I'm Bonaventure Ogeto</h1>
 <h3 align="center">Full-Stack Software Developer</h3>
 
-<p>Visit my <a href="https://hojaleaks.com/" target="_blank">Blog</a> and <a href="https://www.linkedin.com/in/bonaventureogeto/">LinkedIn</a></p>
+<div align="left">
+ <p>Visit my <a href="https://hojaleaks.com/" target="_blank">Blog</a> and <a href="https://www.linkedin.com/in/bonaventureogeto/">LinkedIn</a></p>
 
-<a href="https://app.daily.dev/bonaogeto"><img src="https://api.daily.dev/devcards/06e30f97940a4e529e38f05e6b3228bb.png?r=olf" width="400" alt="Bonaventure Ogeto's Dev Card"/></a>
+</div>
+<!-- 
+<div align="left">
+  <a href="https://twitter.com/omBratteng">
+    <img
+      src="https://img.shields.io/twitter/follow/omBratteng?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/ombratteng/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+  <a rel="me" href="https://cloud-native.social/@omBratteng">
+    <img
+      src="https://img.shields.io/mastodon/follow/109437637721057155?color=blueviolet&domain=https%3A%2F%2Fcloud-native.social&label=Mastodon&logo=mastodon&logoColor=white&style=flat-square"
+      alt="Cloud Native Mastodon"
+    />
+  </a>
 
+
+  <a href="https://app.daily.dev/bonaogeto"><img src="https://api.daily.dev/devcards/06e30f97940a4e529e38f05e6b3228bb.png?r=olf" width="400" alt="Bonaventure Ogeto's Dev Card"/></a>
+</div> -->
 
 
 - Email: **bonaogeto1@gmail.com**
