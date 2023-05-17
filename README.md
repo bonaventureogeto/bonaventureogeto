@@ -3,7 +3,7 @@
 
 <p>Visit my <a href="https://hojaleaks.com/" target="_blank">Blog</a> and <a href="https://www.linkedin.com/in/bonaventureogeto/">LinkedIn</a></p>
 
-
+<a href="https://app.daily.dev/bonaogeto"><img src="https://api.daily.dev/devcards/06e30f97940a4e529e38f05e6b3228bb.png?r=olf" width="400" alt="Bonaventure Ogeto's Dev Card"/></a>
 
 
 
