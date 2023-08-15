@@ -22,9 +22,7 @@
   </a>
 
 
-  <a href="https://app.daily.dev/bonaogeto">
-   <img src="https://api.daily.dev/devcards/06e30f97940a4e529e38f05e6b3228bb.png?r=olf" width="400" align="right" alt="Bonaventure Ogeto's Dev Card"/>
- </a>
+  <a href="https://app.daily.dev/bonaogeto"><img src="https://api.daily.dev/devcards/06e30f97940a4e529e38f05e6b3228bb.png?r=2db" width="400" alt="Bonaventure Ogeto's Dev Card"/></a>
 </div>
 
 ## Full-Stack Software Developer
