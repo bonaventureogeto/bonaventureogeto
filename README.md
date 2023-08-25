@@ -27,7 +27,7 @@
   </a>
 </div>
 
-## Full-Stack Software Developer
+## Software Engineer
 
 - Visit my [Blog](https://hojaleaks.com/)
 - Email: bonaogeto1@gmail.com 
