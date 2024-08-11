@@ -32,14 +32,7 @@
 - Visit my [Blog](https://hojaleaks.com/)
 - Email: bonaogeto1@gmail.com 
 
-![](https://raw.githubusercontent.com/bonaventureogeto/githubstats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/bonaventureogeto/githubstats/master/generated/overview.svg#gh-light-mode-only)
-
-
-![](https://raw.githubusercontent.com/bonaventureogeto/githubstats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/bonaventureogeto/githubstats/master/generated/languages.svg#gh-light-mode-only)
-
-<!-- [![Bonaventure's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bonaventureogeto)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Bonaventure's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bonaventureogeto)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- <h3 align="left">Languages and Tools:</h3>
