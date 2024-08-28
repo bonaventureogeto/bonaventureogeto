@@ -80,3 +80,7 @@ I'm a passionate **Software Engineer** with a focus on full-stack web developmen
 
 ## 📊 GitHub Stats
 [![Bonaventure's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bonaventureogeto&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> 
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/bonaventureogeto/count.svg" />
+</p>
