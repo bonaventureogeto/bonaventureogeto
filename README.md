@@ -18,7 +18,7 @@ I'm a passionate **Software Engineer** with a focus on full-stack web developmen
 </div>
 
 ## 🚀 About Me
-- 🌍 I'm actively involved in training, developing curriculums, supporting, and consulting with some of the top coding bootcamps in Africa and Europe.
+- 🌍 Hacking productivity
 -  💻 I'm a Nix A(b)user.
 - 🌱 I’m constantly learning and exploring new technologies, with a current focus on **System Design**.
 - 📝 I share my thoughts and experiences on my [X Page](https://x.com/bonaogeto).
