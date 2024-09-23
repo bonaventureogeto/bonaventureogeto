@@ -9,8 +9,8 @@ I'm a passionate **Software Engineer** with a focus on full-stack web developmen
   <a href="https://www.linkedin.com/in/bonaventureogeto/">
     <img src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86" alt="LinkedIn"/>
   </a>
-  <a rel="me" href="https://cloud-native.social/@bonaogeto">
-    <img src="https://img.shields.io/mastodon/follow/109437637721057155?color=blueviolet&domain=https%3A%2F%2Fcloud-native.social&label=Mastodon&logo=mastodon&logoColor=white&style=flat-square" alt="Cloud Native Mastodon"/>
+  <a rel="me" href="https://youtube.com/@bonaogeto">
+    <img src="https://img.shields.io/mastodon/follow/109437637721057155?color=blueviolet&domain=https%3A%2F%2Fcloud-native.social&label=YouTube&logo=youtube&logoColor=white&style=flat-square" alt="YouTube"/>
   </a>
   <a href="https://app.daily.dev/bonaogeto">
     <img src="https://api.daily.dev/devcards/06e30f97940a4e529e38f05e6b3228bb.png?r=2db" width="400" align="right" alt="Bonaventure Ogeto's Dev Card"/>
