@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Bonaventure Ogeto
 
-I'm a passionate **Software Engineer** with a focus on full-stack web development. I enjoy crafting scalable solutions, mentoring others, and staying up-to-date with the latest tech trends.
+I'm a passionate **Software Engineer**. I enjoy crafting scalable solutions, mentoring others, and staying up-to-date with the latest tech trends.
 
 <div align="left">
   <a href="https://twitter.com/bonaogeto">
