@@ -1,87 +1,115 @@
-# Hi there 👋, I'm Bonaventure Ogeto
+# 🌟 Bonaventure Ogeto
 
-I'm a passionate **Software Engineer**. I enjoy crafting scalable solutions, mentoring others, and staying up-to-date with the latest tech trends.
+> **Crafting Digital Excellence** • System Design Enthusiast • Nix Devotee
 
-<div align="left">
-  <a href="https://twitter.com/bonaogeto">
-    <img src="https://img.shields.io/twitter/follow/bonaogeto?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bonaventureogeto/">
-    <img src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86" alt="LinkedIn"/>
-  </a>
-  <a rel="me" href="https://youtube.com/@bonaogeto">
-    <img src="https://img.shields.io/mastodon/follow/109437637721057155?color=blueviolet&domain=https%3A%2F%2Fcloud-native.social&label=YouTube&logo=youtube&logoColor=white&style=flat-square" alt="YouTube"/>
-  </a>
-  <a href="https://app.daily.dev/bonaogeto">
-    <img src="https://api.daily.dev/devcards/06e30f97940a4e529e38f05e6b3228bb.png?r=2db" width="400" align="right" alt="Bonaventure Ogeto's Dev Card"/>
-  </a>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Problem+Solver;Building+Scalable+Solutions;Mentoring+%26+Knowledge+Sharing;Always+Learning+%26+Growing)](https://git.io/typing-svg)
+  
 </div>
 
-## 🚀 About Me
-- 🌍 Hacking productivity
--  💻 I'm a Nix A(b)user.
-- 🌱 I’m constantly learning and exploring new technologies, with a current focus on **System Design**.
-- 📝 I share my thoughts and experiences on my [X Page](https://x.com/bonaogeto).
-- 📝 I share coding articles on my [blog](https://hojaleaks.com).
-- 📝 I also share coding tutorials on my [YouTube](https://youtube.com/@bonaogeto).
-- 📫 Reach me at: bonaogeto1@gmail.com
+---
 
-## 🛠️ Languages and Tools
+## 🎯 **What I Do**
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-</p>
+```typescript
+const bonaventure = {
+  focus: ["System Design", "Scalable Architecture", "Developer Experience"],
+  currentlyLearning: "Advanced System Design Patterns",
+  philosophy: "Code with purpose, build with passion",
+  superpower: "Turning complex problems into elegant solutions"
+};
+```
 
-## 📊 GitHub Stats
-[![Bonaventure's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bonaventureogeto&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<p align="center"> 
-  Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/bonaventureogeto/count.svg" />
-</p>
+<div align="center">
+  
+  **🌍 Productivity Hacker** • **💻 Nix A(b)user** • **🚀 Tech Explorer**
+  
+</div>
+
+---
+
+## 🛠️ **Tech Arsenal**
+
+<div align="center">
+
+### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### **Styling & Design**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### **Data & Tools**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📈 **GitHub Insights**
+
+<div align="center">
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bonaventureogeto&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bonaventureogeto&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="49%" />
+  
+</div>
+
+<div align="center">
+  
+  ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bonaventureogeto&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0D1117)
+  
+</div>
+
+---
+
+## 🌐 **Connect & Collaborate**
+
+<div align="center">
+  
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bonaogeto)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bonaventureogeto/)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@bonaogeto)
+  [![Blog](https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://hojaleaks.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bonaogeto1@gmail.com)
+  
+</div>
+
+---
+
+## 💡 **Content & Knowledge Sharing**
+
+<div align="center">
+  
+  📝 **Thoughts & Insights** → [X (Twitter)](https://x.com/bonaogeto)  
+  📖 **Technical Articles** → [HojaLeaks Blog](https://hojaleaks.com)  
+  🎥 **Coding Tutorials** → [YouTube Channel](https://youtube.com/@bonaogeto)  
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💭 *"Great software is built by great people working together"*
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=bonaventureogeto&color=00D9FF&style=for-the-badge&label=Profile+Views)
+  
+  **Open to collaborations and exciting opportunities!** 🚀
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
+</div>
